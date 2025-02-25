@@ -557,6 +557,7 @@
 			<Item Name="NI_USB6343_Accessor_DisableFP_Hide_Ref.vi" Type="VI" URL="../../NI-USB6343/SubVIs/NI_USB6343_Synchronization.llb/NI_USB6343_Accessor_DisableFP_Hide_Ref.vi"/>
 			<Item Name="Merge Errors w_o Warning.vi" Type="VI" URL="../../../../../../LabVIEW 2020 Toolkits/toolkits_lv2020_32bit/MIscellaneous VIs.llb/Merge Errors w_o Warning.vi"/>
 			<Item Name="CFG_File_Refnam_Empty.vi" Type="VI" URL="../../../../../../LabVIEW 2020 Toolkits/toolkits_lv2020_32bit/CFG Management/Configuration File Drivers.llb/CFG_File_Refnam_Empty.vi"/>
+			<Item Name="ExecEng_InstrGeneric_Sequence_Save.vi" Type="VI" URL="../../../SubVIs/ExecEng_Instruments_Generic.llb/ExecEng_InstrGeneric_Sequence_Save.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="NI-USB6212_Application" Type="EXE">
@@ -575,7 +576,7 @@
 				<Property Name="Bld_localDestDir" Type="Path">/E/NewTS/NewTS_Execution Engine/ExecEng_Builds/NI-USB6212_builds/NI-USB6212_Application</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{A9C082D1-DF91-4060-AE57-E159DDBAE6EC}</Property>
-				<Property Name="Bld_version.build" Type="Int">23</Property>
+				<Property Name="Bld_version.build" Type="Int">24</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">NI-USB6212.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">/E/NewTS/NewTS_Execution Engine/ExecEng_Builds/NI-USB6212_builds/NI-USB6212_Application/NI_AB_PROJECTNAME.exe</Property>
