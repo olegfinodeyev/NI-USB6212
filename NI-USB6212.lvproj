@@ -558,6 +558,9 @@
 			<Item Name="Merge Errors w_o Warning.vi" Type="VI" URL="../../../../../../LabVIEW 2020 Toolkits/toolkits_lv2020_32bit/MIscellaneous VIs.llb/Merge Errors w_o Warning.vi"/>
 			<Item Name="CFG_File_Refnam_Empty.vi" Type="VI" URL="../../../../../../LabVIEW 2020 Toolkits/toolkits_lv2020_32bit/CFG Management/Configuration File Drivers.llb/CFG_File_Refnam_Empty.vi"/>
 			<Item Name="ExecEng_InstrGeneric_Sequence_Save.vi" Type="VI" URL="../../../SubVIs/ExecEng_Instruments_Generic.llb/ExecEng_InstrGeneric_Sequence_Save.vi"/>
+			<Item Name="Set_Knob_Dbl Control.vi" Type="VI" URL="../../../../../../LabVIEW 2020 Toolkits/VI Server Toolkit/VI Server Libraries/VI Server_Set Controls.llb/Set_Knob_Dbl Control.vi"/>
+			<Item Name="ExecEng_LimitsType.ctl" Type="VI" URL="../../../SubVIs/ExEng_TypeDefs.llb/ExecEng_LimitsType.ctl"/>
+			<Item Name="VI Server_Knob_DBL_Get.vi" Type="VI" URL="../../../../../../LabVIEW 2020 Toolkits/VI Server Toolkit/VI Server Libraries/VI Server_GetControl.llb/VI Server_Knob_DBL_Get.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="NI-USB6212_Application" Type="EXE">
@@ -576,7 +579,7 @@
 				<Property Name="Bld_localDestDir" Type="Path">/E/NewTS/NewTS_Execution Engine/ExecEng_Builds/NI-USB6212_builds/NI-USB6212_Application</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{A9C082D1-DF91-4060-AE57-E159DDBAE6EC}</Property>
-				<Property Name="Bld_version.build" Type="Int">24</Property>
+				<Property Name="Bld_version.build" Type="Int">26</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">NI-USB6212.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">/E/NewTS/NewTS_Execution Engine/ExecEng_Builds/NI-USB6212_builds/NI-USB6212_Application/NI_AB_PROJECTNAME.exe</Property>
@@ -600,7 +603,7 @@
 				<Property Name="Destination[5].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">6</Property>
 				<Property Name="Exe_iconItemID" Type="Ref">/My Computer/NI-USB6212.ico</Property>
-				<Property Name="Source[0].itemID" Type="Str">{74F64574-6B56-429F-B26E-E8FE61559A61}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{D580EB6B-9021-468B-9A8E-940C27DF10A5}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/NI-USB6212.vi</Property>
