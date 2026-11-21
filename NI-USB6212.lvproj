@@ -561,6 +561,10 @@
 			<Item Name="Set_Knob_Dbl Control.vi" Type="VI" URL="../../../../../../LabVIEW 2020 Toolkits/VI Server Toolkit/VI Server Libraries/VI Server_Set Controls.llb/Set_Knob_Dbl Control.vi"/>
 			<Item Name="ExecEng_LimitsType.ctl" Type="VI" URL="../../../SubVIs/ExEng_TypeDefs.llb/ExecEng_LimitsType.ctl"/>
 			<Item Name="VI Server_Knob_DBL_Get.vi" Type="VI" URL="../../../../../../LabVIEW 2020 Toolkits/VI Server Toolkit/VI Server Libraries/VI Server_GetControl.llb/VI Server_Knob_DBL_Get.vi"/>
+			<Item Name="Error_Log.vi" Type="VI" URL="../../../../../../LabVIEW 2020 Toolkits/toolkits_lv2020_32bit/Errors Management.llb/Error_Log.vi"/>
+			<Item Name="NI_USB6343_Accessor_LogErrors_Ref.vi" Type="VI" URL="../../NI-USB6343/SubVIs/NI_USB6343_Synchronization.llb/NI_USB6343_Accessor_LogErrors_Ref.vi"/>
+			<Item Name="NI_USB6343_Accessor_ErrorLorFilePath_Ref.vi" Type="VI" URL="../../NI-USB6343/SubVIs/NI_USB6343_Synchronization.llb/NI_USB6343_Accessor_ErrorLorFilePath_Ref.vi"/>
+			<Item Name="Configuration ~ Write I32 To CFG File.vi" Type="VI" URL="../../../../../../LabVIEW 2020 Toolkits/toolkits_lv2020_32bit/CFG Management/Configuration File Drivers.llb/Configuration ~ Write I32 To CFG File.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="NI-USB6212_Application" Type="EXE">
